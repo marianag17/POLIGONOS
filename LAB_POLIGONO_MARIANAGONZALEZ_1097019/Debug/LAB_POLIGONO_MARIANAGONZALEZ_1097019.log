@@ -1,0 +1,22 @@
+﻿  Cuadrilatero.cpp
+  Decagono.cpp
+  Eneagono.cpp
+  Heptagono.cpp
+  Hexagono.cpp
+  MyForm.cpp
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\desktop\segundo ciclo 2019\pa\lab_poligono_marianagonzalez_1097019\lab_poligono_marianagonzalez_1097019\myform.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Octagono.cpp
+  Pentagono.cpp
+  Poligono.cpp
+  Triangulo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Cuadrilatero.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LAB_POLIGONO_MARIANAGONZALEZ_1097019.vcxproj -> C:\Users\luis\Desktop\SEGUNDO CICLO 2019\PA\LAB_POLIGONO_MARIANAGONZALEZ_1097019\Debug\LAB_POLIGONO_MARIANAGONZALEZ_1097019.exe
